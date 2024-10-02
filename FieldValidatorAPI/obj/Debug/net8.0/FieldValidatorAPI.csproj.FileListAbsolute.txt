@@ -1,0 +1,12 @@
+C:\csharp\firstProj\FieldValidatorAPI\bin\Debug\net8.0\FieldValidatorAPI.deps.json
+C:\csharp\firstProj\FieldValidatorAPI\bin\Debug\net8.0\FieldValidatorAPI.dll
+C:\csharp\firstProj\FieldValidatorAPI\bin\Debug\net8.0\FieldValidatorAPI.pdb
+C:\csharp\firstProj\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.AssemblyInfoInputs.cache
+C:\csharp\firstProj\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.AssemblyInfo.cs
+C:\csharp\firstProj\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.sourcelink.json
+C:\csharp\firstProj\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.dll
+C:\csharp\firstProj\FieldValidatorAPI\obj\Debug\net8.0\refint\FieldValidatorAPI.dll
+C:\csharp\firstProj\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.pdb
+C:\csharp\firstProj\FieldValidatorAPI\obj\Debug\net8.0\ref\FieldValidatorAPI.dll

@@ -1,0 +1,14 @@
+C:\csharp\firstProj\PartThirteen\bin\Debug\net8.0\PartThirteen.exe
+C:\csharp\firstProj\PartThirteen\bin\Debug\net8.0\PartThirteen.deps.json
+C:\csharp\firstProj\PartThirteen\bin\Debug\net8.0\PartThirteen.runtimeconfig.json
+C:\csharp\firstProj\PartThirteen\bin\Debug\net8.0\PartThirteen.dll
+C:\csharp\firstProj\PartThirteen\bin\Debug\net8.0\PartThirteen.pdb
+C:\csharp\firstProj\PartThirteen\obj\Debug\net8.0\PartThirteen.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\PartThirteen\obj\Debug\net8.0\PartThirteen.AssemblyInfoInputs.cache
+C:\csharp\firstProj\PartThirteen\obj\Debug\net8.0\PartThirteen.AssemblyInfo.cs
+C:\csharp\firstProj\PartThirteen\obj\Debug\net8.0\PartThirteen.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\PartThirteen\obj\Debug\net8.0\PartThirteen.dll
+C:\csharp\firstProj\PartThirteen\obj\Debug\net8.0\refint\PartThirteen.dll
+C:\csharp\firstProj\PartThirteen\obj\Debug\net8.0\PartThirteen.pdb
+C:\csharp\firstProj\PartThirteen\obj\Debug\net8.0\PartThirteen.genruntimeconfig.cache
+C:\csharp\firstProj\PartThirteen\obj\Debug\net8.0\ref\PartThirteen.dll

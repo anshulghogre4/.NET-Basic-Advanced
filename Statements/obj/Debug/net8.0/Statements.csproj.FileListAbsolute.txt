@@ -1,0 +1,14 @@
+C:\csharp\firstProj\Statements\bin\Debug\net8.0\Statements.exe
+C:\csharp\firstProj\Statements\bin\Debug\net8.0\Statements.deps.json
+C:\csharp\firstProj\Statements\bin\Debug\net8.0\Statements.runtimeconfig.json
+C:\csharp\firstProj\Statements\bin\Debug\net8.0\Statements.dll
+C:\csharp\firstProj\Statements\bin\Debug\net8.0\Statements.pdb
+C:\csharp\firstProj\Statements\obj\Debug\net8.0\Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\Statements\obj\Debug\net8.0\Statements.AssemblyInfoInputs.cache
+C:\csharp\firstProj\Statements\obj\Debug\net8.0\Statements.AssemblyInfo.cs
+C:\csharp\firstProj\Statements\obj\Debug\net8.0\Statements.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\Statements\obj\Debug\net8.0\Statements.dll
+C:\csharp\firstProj\Statements\obj\Debug\net8.0\refint\Statements.dll
+C:\csharp\firstProj\Statements\obj\Debug\net8.0\Statements.pdb
+C:\csharp\firstProj\Statements\obj\Debug\net8.0\Statements.genruntimeconfig.cache
+C:\csharp\firstProj\Statements\obj\Debug\net8.0\ref\Statements.dll

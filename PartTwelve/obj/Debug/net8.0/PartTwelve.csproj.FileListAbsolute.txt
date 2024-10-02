@@ -1,0 +1,14 @@
+C:\csharp\firstProj\PartTwelve\bin\Debug\net8.0\PartTwelve.exe
+C:\csharp\firstProj\PartTwelve\bin\Debug\net8.0\PartTwelve.deps.json
+C:\csharp\firstProj\PartTwelve\bin\Debug\net8.0\PartTwelve.runtimeconfig.json
+C:\csharp\firstProj\PartTwelve\bin\Debug\net8.0\PartTwelve.dll
+C:\csharp\firstProj\PartTwelve\bin\Debug\net8.0\PartTwelve.pdb
+C:\csharp\firstProj\PartTwelve\obj\Debug\net8.0\PartTwelve.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\PartTwelve\obj\Debug\net8.0\PartTwelve.AssemblyInfoInputs.cache
+C:\csharp\firstProj\PartTwelve\obj\Debug\net8.0\PartTwelve.AssemblyInfo.cs
+C:\csharp\firstProj\PartTwelve\obj\Debug\net8.0\PartTwelve.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\PartTwelve\obj\Debug\net8.0\PartTwelve.dll
+C:\csharp\firstProj\PartTwelve\obj\Debug\net8.0\refint\PartTwelve.dll
+C:\csharp\firstProj\PartTwelve\obj\Debug\net8.0\PartTwelve.pdb
+C:\csharp\firstProj\PartTwelve\obj\Debug\net8.0\PartTwelve.genruntimeconfig.cache
+C:\csharp\firstProj\PartTwelve\obj\Debug\net8.0\ref\PartTwelve.dll

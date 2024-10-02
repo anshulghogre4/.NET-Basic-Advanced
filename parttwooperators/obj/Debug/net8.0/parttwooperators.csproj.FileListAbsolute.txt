@@ -1,0 +1,14 @@
+C:\csharp\firstProj\parttwooperators\bin\Debug\net8.0\parttwooperators.exe
+C:\csharp\firstProj\parttwooperators\bin\Debug\net8.0\parttwooperators.deps.json
+C:\csharp\firstProj\parttwooperators\bin\Debug\net8.0\parttwooperators.runtimeconfig.json
+C:\csharp\firstProj\parttwooperators\bin\Debug\net8.0\parttwooperators.dll
+C:\csharp\firstProj\parttwooperators\bin\Debug\net8.0\parttwooperators.pdb
+C:\csharp\firstProj\parttwooperators\obj\Debug\net8.0\parttwooperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\parttwooperators\obj\Debug\net8.0\parttwooperators.AssemblyInfoInputs.cache
+C:\csharp\firstProj\parttwooperators\obj\Debug\net8.0\parttwooperators.AssemblyInfo.cs
+C:\csharp\firstProj\parttwooperators\obj\Debug\net8.0\parttwooperators.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\parttwooperators\obj\Debug\net8.0\parttwooperators.dll
+C:\csharp\firstProj\parttwooperators\obj\Debug\net8.0\refint\parttwooperators.dll
+C:\csharp\firstProj\parttwooperators\obj\Debug\net8.0\parttwooperators.pdb
+C:\csharp\firstProj\parttwooperators\obj\Debug\net8.0\parttwooperators.genruntimeconfig.cache
+C:\csharp\firstProj\parttwooperators\obj\Debug\net8.0\ref\parttwooperators.dll

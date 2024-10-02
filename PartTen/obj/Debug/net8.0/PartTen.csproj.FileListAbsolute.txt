@@ -1,0 +1,14 @@
+C:\csharp\firstProj\PartTen\bin\Debug\net8.0\PartTen.exe
+C:\csharp\firstProj\PartTen\bin\Debug\net8.0\PartTen.deps.json
+C:\csharp\firstProj\PartTen\bin\Debug\net8.0\PartTen.runtimeconfig.json
+C:\csharp\firstProj\PartTen\bin\Debug\net8.0\PartTen.dll
+C:\csharp\firstProj\PartTen\bin\Debug\net8.0\PartTen.pdb
+C:\csharp\firstProj\PartTen\obj\Debug\net8.0\PartTen.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\PartTen\obj\Debug\net8.0\PartTen.AssemblyInfoInputs.cache
+C:\csharp\firstProj\PartTen\obj\Debug\net8.0\PartTen.AssemblyInfo.cs
+C:\csharp\firstProj\PartTen\obj\Debug\net8.0\PartTen.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\PartTen\obj\Debug\net8.0\PartTen.dll
+C:\csharp\firstProj\PartTen\obj\Debug\net8.0\refint\PartTen.dll
+C:\csharp\firstProj\PartTen\obj\Debug\net8.0\PartTen.pdb
+C:\csharp\firstProj\PartTen\obj\Debug\net8.0\PartTen.genruntimeconfig.cache
+C:\csharp\firstProj\PartTen\obj\Debug\net8.0\ref\PartTen.dll

@@ -1,0 +1,14 @@
+C:\csharp\firstProj\Enumerators\bin\Debug\net8.0\Enumerators.exe
+C:\csharp\firstProj\Enumerators\bin\Debug\net8.0\Enumerators.deps.json
+C:\csharp\firstProj\Enumerators\bin\Debug\net8.0\Enumerators.runtimeconfig.json
+C:\csharp\firstProj\Enumerators\bin\Debug\net8.0\Enumerators.dll
+C:\csharp\firstProj\Enumerators\bin\Debug\net8.0\Enumerators.pdb
+C:\csharp\firstProj\Enumerators\obj\Debug\net8.0\Enumerators.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\Enumerators\obj\Debug\net8.0\Enumerators.AssemblyInfoInputs.cache
+C:\csharp\firstProj\Enumerators\obj\Debug\net8.0\Enumerators.AssemblyInfo.cs
+C:\csharp\firstProj\Enumerators\obj\Debug\net8.0\Enumerators.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\Enumerators\obj\Debug\net8.0\Enumerators.dll
+C:\csharp\firstProj\Enumerators\obj\Debug\net8.0\refint\Enumerators.dll
+C:\csharp\firstProj\Enumerators\obj\Debug\net8.0\Enumerators.pdb
+C:\csharp\firstProj\Enumerators\obj\Debug\net8.0\Enumerators.genruntimeconfig.cache
+C:\csharp\firstProj\Enumerators\obj\Debug\net8.0\ref\Enumerators.dll

@@ -1,0 +1,12 @@
+C:\csharp\firstProj\HRAdminstrationAPI\obj\Debug\net8.0\HRAdminstrationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\HRAdminstrationAPI\obj\Debug\net8.0\HRAdminstrationAPI.AssemblyInfoInputs.cache
+C:\csharp\firstProj\HRAdminstrationAPI\obj\Debug\net8.0\HRAdminstrationAPI.AssemblyInfo.cs
+C:\csharp\firstProj\HRAdminstrationAPI\obj\Debug\net8.0\HRAdminstrationAPI.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\HRAdminstrationAPI\bin\Debug\net8.0\HRAdminstrationAPI.deps.json
+C:\csharp\firstProj\HRAdminstrationAPI\bin\Debug\net8.0\HRAdminstrationAPI.dll
+C:\csharp\firstProj\HRAdminstrationAPI\bin\Debug\net8.0\HRAdminstrationAPI.pdb
+C:\csharp\firstProj\HRAdminstrationAPI\obj\Debug\net8.0\HRAdminstrationAPI.dll
+C:\csharp\firstProj\HRAdminstrationAPI\obj\Debug\net8.0\refint\HRAdminstrationAPI.dll
+C:\csharp\firstProj\HRAdminstrationAPI\obj\Debug\net8.0\HRAdminstrationAPI.pdb
+C:\csharp\firstProj\HRAdminstrationAPI\obj\Debug\net8.0\ref\HRAdminstrationAPI.dll
+C:\csharp\firstProj\HRAdminstrationAPI\obj\Debug\net8.0\HRAdminstrationAPI.sourcelink.json

@@ -1,0 +1,14 @@
+C:\csharp\firstProj\Collections\bin\Debug\net8.0\Collections.exe
+C:\csharp\firstProj\Collections\bin\Debug\net8.0\Collections.deps.json
+C:\csharp\firstProj\Collections\bin\Debug\net8.0\Collections.runtimeconfig.json
+C:\csharp\firstProj\Collections\bin\Debug\net8.0\Collections.dll
+C:\csharp\firstProj\Collections\bin\Debug\net8.0\Collections.pdb
+C:\csharp\firstProj\Collections\obj\Debug\net8.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\Collections\obj\Debug\net8.0\Collections.AssemblyInfoInputs.cache
+C:\csharp\firstProj\Collections\obj\Debug\net8.0\Collections.AssemblyInfo.cs
+C:\csharp\firstProj\Collections\obj\Debug\net8.0\Collections.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\Collections\obj\Debug\net8.0\Collections.dll
+C:\csharp\firstProj\Collections\obj\Debug\net8.0\refint\Collections.dll
+C:\csharp\firstProj\Collections\obj\Debug\net8.0\Collections.pdb
+C:\csharp\firstProj\Collections\obj\Debug\net8.0\Collections.genruntimeconfig.cache
+C:\csharp\firstProj\Collections\obj\Debug\net8.0\ref\Collections.dll

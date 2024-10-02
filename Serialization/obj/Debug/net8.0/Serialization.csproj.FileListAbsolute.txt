@@ -1,0 +1,14 @@
+C:\csharp\firstProj\Serialization\bin\Debug\net8.0\Serialization.exe
+C:\csharp\firstProj\Serialization\bin\Debug\net8.0\Serialization.deps.json
+C:\csharp\firstProj\Serialization\bin\Debug\net8.0\Serialization.runtimeconfig.json
+C:\csharp\firstProj\Serialization\bin\Debug\net8.0\Serialization.dll
+C:\csharp\firstProj\Serialization\bin\Debug\net8.0\Serialization.pdb
+C:\csharp\firstProj\Serialization\obj\Debug\net8.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\Serialization\obj\Debug\net8.0\Serialization.AssemblyInfoInputs.cache
+C:\csharp\firstProj\Serialization\obj\Debug\net8.0\Serialization.AssemblyInfo.cs
+C:\csharp\firstProj\Serialization\obj\Debug\net8.0\Serialization.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\Serialization\obj\Debug\net8.0\Serialization.dll
+C:\csharp\firstProj\Serialization\obj\Debug\net8.0\refint\Serialization.dll
+C:\csharp\firstProj\Serialization\obj\Debug\net8.0\Serialization.pdb
+C:\csharp\firstProj\Serialization\obj\Debug\net8.0\Serialization.genruntimeconfig.cache
+C:\csharp\firstProj\Serialization\obj\Debug\net8.0\ref\Serialization.dll

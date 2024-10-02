@@ -1,0 +1,15 @@
+C:\csharp\firstProj\Generics\bin\Debug\net8.0\Generics.exe
+C:\csharp\firstProj\Generics\bin\Debug\net8.0\Generics.deps.json
+C:\csharp\firstProj\Generics\bin\Debug\net8.0\Generics.runtimeconfig.json
+C:\csharp\firstProj\Generics\bin\Debug\net8.0\Generics.dll
+C:\csharp\firstProj\Generics\bin\Debug\net8.0\Generics.pdb
+C:\csharp\firstProj\Generics\obj\Debug\net8.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\Generics\obj\Debug\net8.0\Generics.AssemblyInfoInputs.cache
+C:\csharp\firstProj\Generics\obj\Debug\net8.0\Generics.AssemblyInfo.cs
+C:\csharp\firstProj\Generics\obj\Debug\net8.0\Generics.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\Generics\obj\Debug\net8.0\Generics.dll
+C:\csharp\firstProj\Generics\obj\Debug\net8.0\refint\Generics.dll
+C:\csharp\firstProj\Generics\obj\Debug\net8.0\Generics.pdb
+C:\csharp\firstProj\Generics\obj\Debug\net8.0\Generics.genruntimeconfig.cache
+C:\csharp\firstProj\Generics\obj\Debug\net8.0\ref\Generics.dll
+C:\csharp\firstProj\Generics\obj\Debug\net8.0\Generics.sourcelink.json

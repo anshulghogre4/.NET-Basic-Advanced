@@ -1,0 +1,7 @@
+C:\csharp\firstProj\firstProj\bin\Debug\firstProj.exe.config
+C:\csharp\firstProj\firstProj\bin\Debug\firstProj.exe
+C:\csharp\firstProj\firstProj\bin\Debug\firstProj.pdb
+C:\csharp\firstProj\firstProj\obj\Debug\firstProj.csproj.AssemblyReference.cache
+C:\csharp\firstProj\firstProj\obj\Debug\firstProj.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\firstProj\obj\Debug\firstProj.exe
+C:\csharp\firstProj\firstProj\obj\Debug\firstProj.pdb

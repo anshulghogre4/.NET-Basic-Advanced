@@ -1,0 +1,14 @@
+C:\csharp\firstProj\PartEight\bin\Debug\net8.0\PartEight.exe
+C:\csharp\firstProj\PartEight\bin\Debug\net8.0\PartEight.deps.json
+C:\csharp\firstProj\PartEight\bin\Debug\net8.0\PartEight.runtimeconfig.json
+C:\csharp\firstProj\PartEight\bin\Debug\net8.0\PartEight.dll
+C:\csharp\firstProj\PartEight\bin\Debug\net8.0\PartEight.pdb
+C:\csharp\firstProj\PartEight\obj\Debug\net8.0\PartEight.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\PartEight\obj\Debug\net8.0\PartEight.AssemblyInfoInputs.cache
+C:\csharp\firstProj\PartEight\obj\Debug\net8.0\PartEight.AssemblyInfo.cs
+C:\csharp\firstProj\PartEight\obj\Debug\net8.0\PartEight.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\PartEight\obj\Debug\net8.0\PartEight.dll
+C:\csharp\firstProj\PartEight\obj\Debug\net8.0\refint\PartEight.dll
+C:\csharp\firstProj\PartEight\obj\Debug\net8.0\PartEight.pdb
+C:\csharp\firstProj\PartEight\obj\Debug\net8.0\PartEight.genruntimeconfig.cache
+C:\csharp\firstProj\PartEight\obj\Debug\net8.0\ref\PartEight.dll

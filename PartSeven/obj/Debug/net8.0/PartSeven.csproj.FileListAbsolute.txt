@@ -1,0 +1,14 @@
+C:\csharp\firstProj\PartSeven\bin\Debug\net8.0\PartSeven.exe
+C:\csharp\firstProj\PartSeven\bin\Debug\net8.0\PartSeven.deps.json
+C:\csharp\firstProj\PartSeven\bin\Debug\net8.0\PartSeven.runtimeconfig.json
+C:\csharp\firstProj\PartSeven\bin\Debug\net8.0\PartSeven.dll
+C:\csharp\firstProj\PartSeven\bin\Debug\net8.0\PartSeven.pdb
+C:\csharp\firstProj\PartSeven\obj\Debug\net8.0\PartSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\PartSeven\obj\Debug\net8.0\PartSeven.AssemblyInfoInputs.cache
+C:\csharp\firstProj\PartSeven\obj\Debug\net8.0\PartSeven.AssemblyInfo.cs
+C:\csharp\firstProj\PartSeven\obj\Debug\net8.0\PartSeven.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\PartSeven\obj\Debug\net8.0\PartSeven.dll
+C:\csharp\firstProj\PartSeven\obj\Debug\net8.0\refint\PartSeven.dll
+C:\csharp\firstProj\PartSeven\obj\Debug\net8.0\PartSeven.pdb
+C:\csharp\firstProj\PartSeven\obj\Debug\net8.0\PartSeven.genruntimeconfig.cache
+C:\csharp\firstProj\PartSeven\obj\Debug\net8.0\ref\PartSeven.dll

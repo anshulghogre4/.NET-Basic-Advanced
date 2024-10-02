@@ -1,0 +1,14 @@
+C:\csharp\firstProj\StoringData\bin\Debug\net8.0\StoringData.exe
+C:\csharp\firstProj\StoringData\bin\Debug\net8.0\StoringData.deps.json
+C:\csharp\firstProj\StoringData\bin\Debug\net8.0\StoringData.runtimeconfig.json
+C:\csharp\firstProj\StoringData\bin\Debug\net8.0\StoringData.dll
+C:\csharp\firstProj\StoringData\bin\Debug\net8.0\StoringData.pdb
+C:\csharp\firstProj\StoringData\obj\Debug\net8.0\StoringData.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\StoringData\obj\Debug\net8.0\StoringData.AssemblyInfoInputs.cache
+C:\csharp\firstProj\StoringData\obj\Debug\net8.0\StoringData.AssemblyInfo.cs
+C:\csharp\firstProj\StoringData\obj\Debug\net8.0\StoringData.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\StoringData\obj\Debug\net8.0\StoringData.dll
+C:\csharp\firstProj\StoringData\obj\Debug\net8.0\refint\StoringData.dll
+C:\csharp\firstProj\StoringData\obj\Debug\net8.0\StoringData.pdb
+C:\csharp\firstProj\StoringData\obj\Debug\net8.0\StoringData.genruntimeconfig.cache
+C:\csharp\firstProj\StoringData\obj\Debug\net8.0\ref\StoringData.dll

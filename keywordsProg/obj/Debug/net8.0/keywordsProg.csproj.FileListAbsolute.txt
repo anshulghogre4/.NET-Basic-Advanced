@@ -1,0 +1,14 @@
+C:\csharp\firstProj\keywordsProg\bin\Debug\net8.0\keywordsProg.exe
+C:\csharp\firstProj\keywordsProg\bin\Debug\net8.0\keywordsProg.deps.json
+C:\csharp\firstProj\keywordsProg\bin\Debug\net8.0\keywordsProg.runtimeconfig.json
+C:\csharp\firstProj\keywordsProg\bin\Debug\net8.0\keywordsProg.dll
+C:\csharp\firstProj\keywordsProg\bin\Debug\net8.0\keywordsProg.pdb
+C:\csharp\firstProj\keywordsProg\obj\Debug\net8.0\keywordsProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\keywordsProg\obj\Debug\net8.0\keywordsProg.AssemblyInfoInputs.cache
+C:\csharp\firstProj\keywordsProg\obj\Debug\net8.0\keywordsProg.AssemblyInfo.cs
+C:\csharp\firstProj\keywordsProg\obj\Debug\net8.0\keywordsProg.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\keywordsProg\obj\Debug\net8.0\keywordsProg.dll
+C:\csharp\firstProj\keywordsProg\obj\Debug\net8.0\refint\keywordsProg.dll
+C:\csharp\firstProj\keywordsProg\obj\Debug\net8.0\keywordsProg.pdb
+C:\csharp\firstProj\keywordsProg\obj\Debug\net8.0\keywordsProg.genruntimeconfig.cache
+C:\csharp\firstProj\keywordsProg\obj\Debug\net8.0\ref\keywordsProg.dll
