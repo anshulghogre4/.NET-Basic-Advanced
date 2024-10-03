@@ -1,0 +1,15 @@
+C:\csharp\firstProj\UseDelegateForAsyncCallback\bin\Debug\net8.0\UseDelegateForAsyncCallback.exe
+C:\csharp\firstProj\UseDelegateForAsyncCallback\bin\Debug\net8.0\UseDelegateForAsyncCallback.deps.json
+C:\csharp\firstProj\UseDelegateForAsyncCallback\bin\Debug\net8.0\UseDelegateForAsyncCallback.runtimeconfig.json
+C:\csharp\firstProj\UseDelegateForAsyncCallback\bin\Debug\net8.0\UseDelegateForAsyncCallback.dll
+C:\csharp\firstProj\UseDelegateForAsyncCallback\bin\Debug\net8.0\UseDelegateForAsyncCallback.pdb
+C:\csharp\firstProj\UseDelegateForAsyncCallback\obj\Debug\net8.0\UseDelegateForAsyncCallback.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\UseDelegateForAsyncCallback\obj\Debug\net8.0\UseDelegateForAsyncCallback.AssemblyInfoInputs.cache
+C:\csharp\firstProj\UseDelegateForAsyncCallback\obj\Debug\net8.0\UseDelegateForAsyncCallback.AssemblyInfo.cs
+C:\csharp\firstProj\UseDelegateForAsyncCallback\obj\Debug\net8.0\UseDelegateForAsyncCallback.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\UseDelegateForAsyncCallback\obj\Debug\net8.0\UseDelegateForAsyncCallback.sourcelink.json
+C:\csharp\firstProj\UseDelegateForAsyncCallback\obj\Debug\net8.0\UseDelegateForAsyncCallback.dll
+C:\csharp\firstProj\UseDelegateForAsyncCallback\obj\Debug\net8.0\refint\UseDelegateForAsyncCallback.dll
+C:\csharp\firstProj\UseDelegateForAsyncCallback\obj\Debug\net8.0\UseDelegateForAsyncCallback.pdb
+C:\csharp\firstProj\UseDelegateForAsyncCallback\obj\Debug\net8.0\UseDelegateForAsyncCallback.genruntimeconfig.cache
+C:\csharp\firstProj\UseDelegateForAsyncCallback\obj\Debug\net8.0\ref\UseDelegateForAsyncCallback.dll

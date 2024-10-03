@@ -47,9 +47,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolHRAdminstration", "Sc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HRAdminstrationAPI", "HRAdminstrationAPI\HRAdminstrationAPI.csproj", "{CFD9EC9F-39A4-4CDD-834E-ECE6AC5975E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClubMembershipApplication", "DelegatesPart2\ClubMembershipApplication.csproj", "{C5A16127-263B-4452-9EF1-1F9296F36805}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClubMembershipApplication", "DelegatesPart2\ClubMembershipApplication.csproj", "{C5A16127-263B-4452-9EF1-1F9296F36805}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldValidatorAPI", "FieldValidatorAPI\FieldValidatorAPI.csproj", "{4603164A-958F-4461-85BA-5D508262C650}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FieldValidatorAPI", "FieldValidatorAPI\FieldValidatorAPI.csproj", "{4603164A-958F-4461-85BA-5D508262C650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovarianceAndContravarianceDelegateExample", "CovarianceAndContravarianceDelegateExample\CovarianceAndContravarianceDelegateExample.csproj", "{5A68BE5A-0C4E-4489-BBD1-02F9A56C2995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncActionPredicateExamples", "FuncActionPredicateExamples\FuncActionPredicateExamples.csproj", "{CC6E8C8D-2D1D-47F5-BCBF-48F80262FCB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseDelegateForAsyncCallback", "UseDelegateForAsyncCallback\UseDelegateForAsyncCallback.csproj", "{D73F032F-A851-48FE-BC38-F563F6E2942A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +159,18 @@ Global
 		{4603164A-958F-4461-85BA-5D508262C650}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4603164A-958F-4461-85BA-5D508262C650}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4603164A-958F-4461-85BA-5D508262C650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A68BE5A-0C4E-4489-BBD1-02F9A56C2995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A68BE5A-0C4E-4489-BBD1-02F9A56C2995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A68BE5A-0C4E-4489-BBD1-02F9A56C2995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A68BE5A-0C4E-4489-BBD1-02F9A56C2995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC6E8C8D-2D1D-47F5-BCBF-48F80262FCB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6E8C8D-2D1D-47F5-BCBF-48F80262FCB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6E8C8D-2D1D-47F5-BCBF-48F80262FCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6E8C8D-2D1D-47F5-BCBF-48F80262FCB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73F032F-A851-48FE-BC38-F563F6E2942A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73F032F-A851-48FE-BC38-F563F6E2942A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73F032F-A851-48FE-BC38-F563F6E2942A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73F032F-A851-48FE-BC38-F563F6E2942A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

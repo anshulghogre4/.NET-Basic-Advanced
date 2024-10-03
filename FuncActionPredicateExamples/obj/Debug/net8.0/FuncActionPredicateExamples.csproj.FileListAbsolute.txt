@@ -1,0 +1,15 @@
+C:\csharp\firstProj\FuncActionPredicateExamples\bin\Debug\net8.0\FuncActionPredicateExamples.exe
+C:\csharp\firstProj\FuncActionPredicateExamples\bin\Debug\net8.0\FuncActionPredicateExamples.deps.json
+C:\csharp\firstProj\FuncActionPredicateExamples\bin\Debug\net8.0\FuncActionPredicateExamples.runtimeconfig.json
+C:\csharp\firstProj\FuncActionPredicateExamples\bin\Debug\net8.0\FuncActionPredicateExamples.dll
+C:\csharp\firstProj\FuncActionPredicateExamples\bin\Debug\net8.0\FuncActionPredicateExamples.pdb
+C:\csharp\firstProj\FuncActionPredicateExamples\obj\Debug\net8.0\FuncActionPredicateExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\FuncActionPredicateExamples\obj\Debug\net8.0\FuncActionPredicateExamples.AssemblyInfoInputs.cache
+C:\csharp\firstProj\FuncActionPredicateExamples\obj\Debug\net8.0\FuncActionPredicateExamples.AssemblyInfo.cs
+C:\csharp\firstProj\FuncActionPredicateExamples\obj\Debug\net8.0\FuncActionPredicateExamples.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\FuncActionPredicateExamples\obj\Debug\net8.0\FuncActionPredicateExamples.sourcelink.json
+C:\csharp\firstProj\FuncActionPredicateExamples\obj\Debug\net8.0\FuncActionPredicateExamples.dll
+C:\csharp\firstProj\FuncActionPredicateExamples\obj\Debug\net8.0\refint\FuncActionPredicateExamples.dll
+C:\csharp\firstProj\FuncActionPredicateExamples\obj\Debug\net8.0\FuncActionPredicateExamples.pdb
+C:\csharp\firstProj\FuncActionPredicateExamples\obj\Debug\net8.0\FuncActionPredicateExamples.genruntimeconfig.cache
+C:\csharp\firstProj\FuncActionPredicateExamples\obj\Debug\net8.0\ref\FuncActionPredicateExamples.dll
