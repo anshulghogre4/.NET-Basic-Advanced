@@ -1,0 +1,15 @@
+C:\csharp\firstProj\ThermoStatEventsApp\bin\Debug\net8.0\ThermoStatEventsApp.exe
+C:\csharp\firstProj\ThermoStatEventsApp\bin\Debug\net8.0\ThermoStatEventsApp.deps.json
+C:\csharp\firstProj\ThermoStatEventsApp\bin\Debug\net8.0\ThermoStatEventsApp.runtimeconfig.json
+C:\csharp\firstProj\ThermoStatEventsApp\bin\Debug\net8.0\ThermoStatEventsApp.dll
+C:\csharp\firstProj\ThermoStatEventsApp\bin\Debug\net8.0\ThermoStatEventsApp.pdb
+C:\csharp\firstProj\ThermoStatEventsApp\obj\Debug\net8.0\ThermoStatEventsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\ThermoStatEventsApp\obj\Debug\net8.0\ThermoStatEventsApp.AssemblyInfoInputs.cache
+C:\csharp\firstProj\ThermoStatEventsApp\obj\Debug\net8.0\ThermoStatEventsApp.AssemblyInfo.cs
+C:\csharp\firstProj\ThermoStatEventsApp\obj\Debug\net8.0\ThermoStatEventsApp.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\ThermoStatEventsApp\obj\Debug\net8.0\ThermoStatEventsApp.sourcelink.json
+C:\csharp\firstProj\ThermoStatEventsApp\obj\Debug\net8.0\ThermoStatEventsApp.dll
+C:\csharp\firstProj\ThermoStatEventsApp\obj\Debug\net8.0\refint\ThermoStatEventsApp.dll
+C:\csharp\firstProj\ThermoStatEventsApp\obj\Debug\net8.0\ThermoStatEventsApp.pdb
+C:\csharp\firstProj\ThermoStatEventsApp\obj\Debug\net8.0\ThermoStatEventsApp.genruntimeconfig.cache
+C:\csharp\firstProj\ThermoStatEventsApp\obj\Debug\net8.0\ref\ThermoStatEventsApp.dll
