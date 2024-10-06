@@ -1,0 +1,15 @@
+C:\csharp\firstProj\BuildingSurveillanceSystemApplication\bin\Debug\net8.0\BuildingSurveillanceSystemApplication.exe
+C:\csharp\firstProj\BuildingSurveillanceSystemApplication\bin\Debug\net8.0\BuildingSurveillanceSystemApplication.deps.json
+C:\csharp\firstProj\BuildingSurveillanceSystemApplication\bin\Debug\net8.0\BuildingSurveillanceSystemApplication.runtimeconfig.json
+C:\csharp\firstProj\BuildingSurveillanceSystemApplication\bin\Debug\net8.0\BuildingSurveillanceSystemApplication.dll
+C:\csharp\firstProj\BuildingSurveillanceSystemApplication\bin\Debug\net8.0\BuildingSurveillanceSystemApplication.pdb
+C:\csharp\firstProj\BuildingSurveillanceSystemApplication\obj\Debug\net8.0\BuildingSurveillanceSystemApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\firstProj\BuildingSurveillanceSystemApplication\obj\Debug\net8.0\BuildingSurveillanceSystemApplication.AssemblyInfoInputs.cache
+C:\csharp\firstProj\BuildingSurveillanceSystemApplication\obj\Debug\net8.0\BuildingSurveillanceSystemApplication.AssemblyInfo.cs
+C:\csharp\firstProj\BuildingSurveillanceSystemApplication\obj\Debug\net8.0\BuildingSurveillanceSystemApplication.csproj.CoreCompileInputs.cache
+C:\csharp\firstProj\BuildingSurveillanceSystemApplication\obj\Debug\net8.0\BuildingSurveillanceSystemApplication.sourcelink.json
+C:\csharp\firstProj\BuildingSurveillanceSystemApplication\obj\Debug\net8.0\BuildingSurveillanceSystemApplication.dll
+C:\csharp\firstProj\BuildingSurveillanceSystemApplication\obj\Debug\net8.0\refint\BuildingSurveillanceSystemApplication.dll
+C:\csharp\firstProj\BuildingSurveillanceSystemApplication\obj\Debug\net8.0\BuildingSurveillanceSystemApplication.pdb
+C:\csharp\firstProj\BuildingSurveillanceSystemApplication\obj\Debug\net8.0\BuildingSurveillanceSystemApplication.genruntimeconfig.cache
+C:\csharp\firstProj\BuildingSurveillanceSystemApplication\obj\Debug\net8.0\ref\BuildingSurveillanceSystemApplication.dll
